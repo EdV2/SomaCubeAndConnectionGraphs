@@ -15,3 +15,10 @@ cube.dot - output example from SomaTableTry1.xml
 Cube2ConnectionGraph1.dot - output example from Cube2ConnectionGraph.xml
 
 I post about this project and mathematical art/art on Twitter @mathart4all
+
+More good info on motivations and insights here - 
+Equivalence Classes Among Pentomino Tilings of the 6x10 Rectangle - http://www.cs.cmu.edu/~wjh/papers/hexclass.html
+Winning Ways for your mathematical plays - https://www.fam-bundgaard.dk/SOMA/NEWS/N990201.HTM
+The complete "SOMAP" is found - https://www.fam-bundgaard.dk/SOMA/NEWS/N030518.HTM
+BLOKL - Building Blocks Puzzles and Games - https://blokl.weebly.com/ - the blocks I use as the physical model
+Mathematical Art Galleries JMM 2020 - "About Fifty" http://gallery.bridgesmathart.org/exhibitions/2020-joint-mathematics-meetings/edvogel56
