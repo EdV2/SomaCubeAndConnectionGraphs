@@ -5,6 +5,7 @@ The files - are run in SNAP! App Edgy - http://snapapps.github.io/edgy/ for info
 SomaTableTry1.xml - takes input from a row of AllSolutionsStringFormat1to27_2Review.csv and makes a cube.dot file
 
 Cube2ConnectionGraph.xml - takes cube.dot file as input and makes a Cube2ConnectionGraph.dot file
+Cube2ConnectionGraph2OneClick_RedGreenFix.xml - fixes Green Red connection count error
 
 AllSolutionsStringFormat1to27_2Review.csv - imported and handcrafted from the results found here - 
 All solutions of the Soma cube puzzle
@@ -13,6 +14,12 @@ https://www.sciencedirect.com/science/article/pii/0012365X85901608
 cube.dot - output example from SomaTableTry1.xml
 
 Cube2ConnectionGraph1.dot - output example from Cube2ConnectionGraph.xml
+
+SomaCubeGraphs.zip - zip file of the "cube graphs" made from AllSolutionsStringFormat1to27_2Review.csv. These files can be imported onto the "stage" of Edgy
+for viewing and analysis
+
+Cube2ConnectionGraphs1.zip - zip file of both the cube graph and the connection graph.  There is an overcount of Green to Red connections which has been fixed in 
+Cube2ConnectionGraph2OneClick_RedGreenFix.xml
 
 I post about this project and mathematical art/art on Twitter @mathart4all
 
